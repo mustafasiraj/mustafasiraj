@@ -20,12 +20,8 @@ I'm a Python developer passionate about **AI, Transformers, and automation**. I 
 
 > 🧠 I believe in **learning by building**.
 
-🚀 [AI Email Auto Responder]              (https://github.com/mustafasiraj/Project-email_suggester)
--
-💬 [Comment Sentiment Fetcher]            (https://commentfetcherapp-d9qdzo4lmxtwxzxqhpmjoh.streamlit.app/))  
--
-📰 [News Summarizer using Transformers]   (https://github.com/mustafasiraj/Project-news-summarizer)  
--
-🌧 [Weather catcher app]                   (https://hvjddzd9lzqqcbv7bmuphl.streamlit.app/)
--
+## 🚀 [AI Email Auto Responder]              (https://github.com/mustafasiraj/Project-email_suggester)
+## 💬 [Comment Sentiment Fetcher]            (https://commentfetcherapp-d9qdzo4lmxtwxzxqhpmjoh.streamlit.app/))  
+## 📰 [News Summarizer using Transformers]   (https://github.com/mustafasiraj/Project-news-summarizer)  
+## 🌧 [Weather catcher app]                   (https://hvjddzd9lzqqcbv7bmuphl.streamlit.app/)
 
