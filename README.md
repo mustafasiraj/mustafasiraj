@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Mustafa Siraj
 
-<!--
-**mustafasiraj/mustafasiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer passionate about **AI, Transformers, and automation**. I build real-world projects to learn and grow — and I love sharing my progress!
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Use
+- 🐍 Python, BeautifulSoup, Regex
+- 🤗 Hugging Face Transformers
+- 🧠 NLP, Summarizers, Email Automation
+- ⚙️ GitHub, VS Code, Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- ✉️ AI Email Auto Responder  
+- 🧠 Comment Sentiment Fetcher  
+- 📰 News Summarizer using Transformers  
+- 🎥 YouTube Video Summarizer
+
+## 📫 Connect with Me
+- GitHub: [@mustafasiraj](https://github.com/mustafasiraj)
+- Working on: [Daily ML Projects](#)
+
+> 🧠 I believe in **learning by building**.
+
