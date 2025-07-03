@@ -17,6 +17,7 @@ I'm a Python developer passionate about **AI, Transformers, and automation**. I 
 ## 📫 Connect with Me
 - GitHub: [@mustafasiraj](https://github.com/mustafasiraj)
 - Working on: [Daily ML Projects](#)
+- !Open in colab: '
 
 > 🧠 I believe in **learning by building**.
 
