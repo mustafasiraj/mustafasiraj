@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mustafa Siraj
 
-I'm a Python developer with a strong passion for **AI, Transformers, and automation**. I love turning ideas into real-world applications and believe in learning by building — one project at a time.
+I'm a Python developer with a strong passion for **AI, Transformers, and automation**. I love turning ideas into real-world workings and believe in learning by building — one project at a time.
 
 ---
 
