@@ -1,27 +1,33 @@
 # 👋 Hi, I'm Mustafa Siraj
 
-I'm a Python developer passionate about **AI, Transformers, and automation**. I build real-world projects to learn and grow — and I love sharing my progress!
+I'm a Python developer with a strong passion for **AI, Transformers, and automation**. I love turning ideas into real-world applications and believe in learning by building — one project at a time.
 
-## 🔧 Technologies I Use
-- 🐍 Python, BeautifulSoup, Regex
-- 🤗 Hugging Face Transformers
-- 🧠 NLP, Summarizers, Email Automation
-- ⚙️ GitHub, VS Code, Google Colab
+---
+
+## 🔧 Technologies I Work With
+
+- 🐍 **Python**, BeautifulSoup, Regex
+- 🤗 **Hugging Face Transformers**
+- 🧠 **Natural Language Processing**, Summarizers, Email Automation
+- ⚙️ **GitHub**, VS Code, Google Colab
+
+---
 
 ## 🚀 Featured Projects
-- ✉️ AI Email Auto Responder  
-- 🧠 Comment Sentiment Fetcher  
-- 📰 News Summarizer using Transformers  
-- 🎥 YouTube Video Summarizer
 
-## 📫 Connect with Me
-- GitHub: [@mustafasiraj](https://github.com/mustafasiraj)
-- Working on: [Daily ML Projects](#)
+| Project | Description | Links |
+|--------|-------------|-------|
+| **AI Email Auto Responder** | Automatically replies to unread emails using NLP & AI | [GitHub Repo](https://github.com/mustafasiraj/Project-email_suggester) |
+| **Comment Sentiment Fetcher** | Analyzes YouTube comment tone and generates smart replies | [Live App](https://commentfetcherapp-d9qdzo4lmxtwxzxqhpmjoh.streamlit.app/) |
+| **News Summarizer** | Summarizes long news articles into quick reads using Transformers | [GitHub Repo](https://github.com/mustafasiraj/Project-news-summarizer) |
+| **Weather Catcher App** | A simple weather info app using WeatherAPI | [Live App](https://hvjddzd9lzqqcbv7bmuphl.streamlit.app/) |
 
-> 🧠 I believe in **learning by building**.
+---
 
-### 🚀 [AI Email Auto Responder]              (https://github.com/mustafasiraj/Project-email_suggester)
-### 💬 [Comment Sentiment Fetcher]            (https://commentfetcherapp-d9qdzo4lmxtwxzxqhpmjoh.streamlit.app/))  
-### 📰 [News Summarizer using Transformers]   (https://github.com/mustafasiraj/Project-news-summarizer)  
-### 🌧 [Weather catcher app]                   (https://hvjddzd9lzqqcbv7bmuphl.streamlit.app/)
+## 📫 Let's Connect
+
+- 💻 **GitHub**: [@mustafasiraj](https://github.com/mustafasiraj)
+- 🔨 **Currently Building**: [ML Projects](#)
+
+> 💡 *“I believe in continuous learning through practical projects.”*
 
